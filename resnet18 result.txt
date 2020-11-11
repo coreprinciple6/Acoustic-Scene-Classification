@@ -1,0 +1,108 @@
+Epoch 1
+
+Epoch [1/10], Step [0/75], Loss: 4.6692
+Epoch [1/10], Step [20/75], Loss: 4.4471
+Epoch [1/10], Step [40/75], Loss: 4.1596
+Epoch [1/10], Step [60/75], Loss: 3.8840
+
+train-loss: 4.1892, train-acc: 12.2468
+validation loss: 3.8648, validation acc: 31.0970
+
+Improvement-Detected, save-model
+Epoch 2
+
+Epoch [2/10], Step [0/75], Loss: 3.5294
+Epoch [2/10], Step [20/75], Loss: 3.2399
+Epoch [2/10], Step [40/75], Loss: 2.8906
+Epoch [2/10], Step [60/75], Loss: 2.6628
+
+train-loss: 3.6314, train-acc: 52.0359
+validation loss: 3.3560, validation acc: 46.8354
+
+Improvement-Detected, save-model
+Epoch 3
+
+Epoch [3/10], Step [0/75], Loss: 2.5704
+Epoch [3/10], Step [20/75], Loss: 2.2107
+Epoch [3/10], Step [40/75], Loss: 2.2680
+Epoch [3/10], Step [60/75], Loss: 2.0021
+
+train-loss: 3.1891, train-acc: 70.1793
+validation loss: 3.0620, validation acc: 55.2321
+
+Improvement-Detected, save-model
+Epoch 4
+
+Epoch [4/10], Step [0/75], Loss: 2.0549
+Epoch [4/10], Step [20/75], Loss: 2.0137
+Epoch [4/10], Step [40/75], Loss: 1.7400
+Epoch [4/10], Step [60/75], Loss: 1.7321
+
+train-loss: 2.8518, train-acc: 77.8270
+validation loss: 2.8318, validation acc: 57.9325
+
+Improvement-Detected, save-model
+Epoch 5
+
+Epoch [5/10], Step [0/75], Loss: 1.7033
+Epoch [5/10], Step [20/75], Loss: 1.4303
+Epoch [5/10], Step [40/75], Loss: 1.5682
+Epoch [5/10], Step [60/75], Loss: 1.3107
+
+train-loss: 2.5878, train-acc: 80.3797
+validation loss: 2.6586, validation acc: 58.9030
+
+Improvement-Detected, save-model
+Epoch 6
+
+Epoch [6/10], Step [0/75], Loss: 1.4154
+Epoch [6/10], Step [20/75], Loss: 1.2242
+Epoch [6/10], Step [40/75], Loss: 1.1310
+Epoch [6/10], Step [60/75], Loss: 1.3268
+
+train-loss: 2.3711, train-acc: 81.7405
+validation loss: 2.5337, validation acc: 59.8312
+
+Improvement-Detected, save-model
+Epoch 7
+
+Epoch [7/10], Step [0/75], Loss: 1.1250
+Epoch [7/10], Step [20/75], Loss: 1.0853
+Epoch [7/10], Step [40/75], Loss: 1.1321
+Epoch [7/10], Step [60/75], Loss: 1.0344
+
+train-loss: 2.1933, train-acc: 83.1224
+validation loss: 2.4239, validation acc: 59.4093
+
+Improvement-Detected, save-model
+Epoch 8
+
+Epoch [8/10], Step [0/75], Loss: 0.9552
+Epoch [8/10], Step [20/75], Loss: 1.0483
+Epoch [8/10], Step [40/75], Loss: 0.8633
+Epoch [8/10], Step [60/75], Loss: 0.9185
+
+train-loss: 2.0457, train-acc: 84.5570
+validation loss: 2.3349, validation acc: 59.6624
+
+Improvement-Detected, save-model
+Epoch 9
+
+Epoch [9/10], Step [0/75], Loss: 0.8996
+Epoch [9/10], Step [20/75], Loss: 0.8562
+Epoch [9/10], Step [40/75], Loss: 0.7971
+Epoch [9/10], Step [60/75], Loss: 0.8565
+
+train-loss: 1.9183, train-acc: 86.2975
+validation loss: 2.2597, validation acc: 60.8439
+
+Improvement-Detected, save-model
+Epoch 10
+
+Epoch [10/10], Step [0/75], Loss: 0.8907
+Epoch [10/10], Step [20/75], Loss: 0.9018
+Epoch [10/10], Step [40/75], Loss: 0.5958
+Epoch [10/10], Step [60/75], Loss: 0.8003
+
+train-loss: 1.8067, train-acc: 87.2257
+validation loss: 2.1998, validation acc: 60.1688
