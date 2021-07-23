@@ -1,5 +1,5 @@
 # A Comparative Study on Approaches to Acoustic Scene Classification using CNNs
-A joint research study was conducted on Acoustic Scene Classification and the findings were published in Springer. The code and final paper is provided to improve research scope in this domain.
+A joint research study was conducted on Acoustic Scene Classification and the findings were published in Springer. The code and final paper is provided to improve research scope in this domain. Dataset is available in [Kaggle](https://www.kaggle.com/coreprinciple/audio-dataset-of-indoor-and-outdoor-scenes).
 
 
 ## Abstract.
